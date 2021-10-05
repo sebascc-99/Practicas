@@ -1,5 +1,8 @@
 # Practicas
 
+Sebastian Corrales Carrillo
+Matricula 320668
+
 #Potenciometro
 
 Conexion
